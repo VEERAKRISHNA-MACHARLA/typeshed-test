@@ -22,8 +22,7 @@ from importlib.metadata import distribution
 
 import aiohttp
 import termcolor
-import urllib.parse
-import urllib.request
+
 PYRIGHT_CONFIG = "pyrightconfig.stricter.json"
 
 
